@@ -1,4 +1,7 @@
-# Hi, I'm [Rishitha](https://rishitha-gunawardana.web.app/)! 👋 🤓
+#
+![header image](https://github.com/Rishithagunawardana/RIshitha-Gunawardana/blob/main/assets/a1.jpg)
+
+Hi, I'm [Rishitha](https://rishitha-gunawardana.web.app/)! 👋 🤓
 
 [![Facebook: @Rishitha_Gunawardana](https://img.shields.io/facebook/follow/saku_rush?style=social)](https://twitter.com/@Saku_rush)
 [![GitHub: @saku-xyz](https://img.shields.io/github/followers/saku-xyz?label=follow&style=social)](https://github.com/saku-xyz)
