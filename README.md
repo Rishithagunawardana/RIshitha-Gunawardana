@@ -1,5 +1,5 @@
 #
-![header image](https://github.com/Rishithagunawardana/RIshitha-Gunawardana/blob/main/assets/a1.jpg)
+![header image](https://github.com/Rishithagunawardana/RIshitha-Gunawardana/blob/main/assets/asd1.jpg)
 
 Hi, I'm [Rishitha](https://rishitha-gunawardana.web.app/)! 👋 🤓
 
