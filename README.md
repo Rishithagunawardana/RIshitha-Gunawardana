@@ -41,6 +41,9 @@ Hei.. Wanna Contact me :telephone_receiver:  Try these ..
 </div>
 <br>
 
+
+
+<a href="https://app.daily.dev/falcon10026880"><img src="https://api.daily.dev/devcards/2618c178762e488b9b0d0c1f8d97c843.png?r=yxk" width="400" alt="Rishitha Gunawardana's Dev Card"/></a>
 <br/>
 
 
