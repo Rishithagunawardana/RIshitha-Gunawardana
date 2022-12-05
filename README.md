@@ -40,14 +40,6 @@ Hei.. Wanna Contact me :telephone_receiver:  Try these ..
    
 </div>
 <br>
-
-<center>
-
-<a href="https://app.daily.dev/falcon10026880"><img src="https://api.daily.dev/devcards/2618c178762e488b9b0d0c1f8d97c843.png?r=yxk" width="400" alt="Rishitha Gunawardana's Dev Card"/></a>
-<br/>
-
- <center/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Rishithagunawardana&theme=tokyonight&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishithagunawardana&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
